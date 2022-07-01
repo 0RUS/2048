@@ -1,4 +1,3 @@
-com.unity.services.core copyright © 2021 Unity Technologies ApS
-Source code of the package is licensed under the Unity Companion License (see https://unity3d.com/legal/licenses/unity_companion_license); otherwise licensed under the Unity Package Distribution License (see https://unity3d.com/legal/licenses/Unity_Package_Distribution_License ).
-
-Unless expressly provided otherwise, the software under this license is made available strictly on an “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. Please review the license for details on these and other terms and conditions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8776ce8f317cc75f1d6bbc97e12f17d9c5ae9924e74e50e2f53ce804d7ae9ec6
+size 596

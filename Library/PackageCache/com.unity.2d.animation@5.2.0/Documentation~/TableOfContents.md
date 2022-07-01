@@ -1,17 +1,3 @@
-* [Introduction to 2D Animation](index.md)
-* [Preparing and importing artwork](PreparingArtwork.md)
-* [Skinning Editor](SkinningEditor.md)
-  * [Tool Preferences](ToolPref.md)
-  * [Editor tools and shortcuts](SkinEdToolsShortcuts.md)
-  * [Sprite Visiblity panel](SpriteVis.md)
-* [Character skinning and weighting workflow](CharacterRig.md)
-* [Animating your character](CopyPasteSkele.md)
-  * [2D Inverse Kinematics](2DIK.md)
-
-* [Sprite Swap workflow - Experimental Feature](SpriteSwapIntro.md)
-  * [Sprite Library Asset and other components](SLAsset.md)
-  * [Sprite Swap manual setup](SSManual.md)
-* [Usage examples](Examples.md)
-  * [Frame-by-frame animation](FFanimation.md)
-  * [Changing parts of a character](CharacterParts.md)
-  * [Swapping Sprite Library Assets](SLASwap.md)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a2dcb7099a06e119325a0d262b9ac507ef4dc9fa185677831a205889682ea1e
+size 780

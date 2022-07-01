@@ -1,5 +1,3 @@
-# Services Core
-This package defines common components used by multiple Game Service packages.
-These are standardized and aim to unify the overall experience of working with Game Service packages.
-
-The public api of this package is meant for internal usage of Game Service packages.
+version https://git-lfs.github.com/spec/v1
+oid sha256:877811be6b6d39820ff13b22d5629ed47b6de85489848766e32c2aa4e1cb6ff8
+size 282
